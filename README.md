@@ -168,11 +168,12 @@
   <tr>
     <td>
       <div class="desc"><b>Masked Input</b></div>
-      <div class="video">
+      <!-- <div class="video">
         <video muted autoplay="autoplay" loop="loop" width="100%">
           <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Common/example-3/masked.mp4" type="video/mp4">
         </video>
-      </div>
+      </div> -->
+      <img src="assets/Common/example-3/masked.gif" width="100%" />
     </td>
     <td>
       <div class="desc"><b>Output</b></div>
