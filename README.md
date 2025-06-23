@@ -70,58 +70,172 @@
   
 ## Results
 
-## Shadow
+#### 👨🏻‍🎨 Object Removal
 
-| Masked Input | Output |
-| --- | --- |
-| ![](assets/Shadow/example-2/masked.gif) | ![](assets/Shadow/example-2/output.gif) |
-| ![](assets/Shadow/example-7/masked.gif) | ![](assets/Shadow/example-7/output.gif) |
+<table>
+   <!-- Shadow -->
+   <tr>
+    <td>
+      <div class="desc"><b>Shadow</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="desc"><b>Masked Input</b></div>
+      <img src="assets/Shadow/example-2/masked.gif" width="60%" />
+    </td>
+    <td>
+      <div class="desc"><b>Output</b></div>
+      <img src="assets/Shadow/example-2/output.gif" width="60%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="desc"><b>Masked Input</b></div>
+      <img src="assets/Shadow/example-7/masked.gif" width="100%" />
+    </td>
+    <td>
+      <div class="desc"><b>Output</b></div>
+      <img src="assets/Shadow/example-7/output.gif" width="100%" />
+    </td>
+  </tr>
 
----
+   <br>
+  <!-- Reflection -->
+  <tr>
+    <td>
+      <div class="desc"><b>Reflection</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="desc"><b>Masked Input</b></div>
+      <img src="assets/Reflection/example-1/masked.gif" width="100%" />
+    </td>
+    <td>
+      <div class="desc"><b>Output</b></div>
+      <img src="assets/Reflection/example-1/output.gif" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="desc"><b>Masked Input</b></div>
+      <img src="assets/Reflection/example-2/masked.gif" width="100%" />
+    </td>
+    <td>
+      <div class="desc"><b>Output</b></div>
+      <img src="assets/Reflection/example-2/output.gif" width="100%" />
+    </td>
+  </tr>
 
-## Reflection
+   <!-- Common -->
+   <tr>
+    <td>
+      <div class="desc"><b>Common</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="desc"><b>Masked Input</b></div>
+      <img src="assets/Common/example-3/masked.gif" width="100%" />
+    </td>
+    <td>
+      <div class="desc"><b>Output</b></div>
+      <img src="assets/Common/example-3/output.gif" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="desc"><b>Masked Input</b></div>
+      <img src="assets/Common/example-15/masked.gif" width="100%" />
+    </td>
+    <td>
+      <div class="desc"><b>Output</b></div>
+      <img src="assets/Common/example-15/output.gif" width="100%" />
+    </td>
+  </tr>
 
-| Masked Input | Output |
-| --- | --- |
-| ![](assets/Reflection/example-1/masked.gif) | ![](assets/Reflection/example-1/output.gif) |
-| ![](assets/Reflection/example-2/masked.gif) | ![](assets/Reflection/example-2/output.gif) |
+  <!-- Light Source -->
+  <tr>
+    <td>
+      <div class="desc"><b>Light Source</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="desc"><b>Masked Input</b></div>
+      <img src="assets/Light_source/example-4/masked.gif" width="100%" />
+    </td>
+    <td>
+      <div class="desc"><b>Output</b></div>
+      <img src="assets/Light_source/example-4/output.gif" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="desc"><b>Masked Input</b></div>
+      <img src="assets/Light_source/example-10/masked.gif" width="100%" />
+    </td>
+    <td>
+      <div class="desc"><b>Output</b></div>
+      <img src="assets/Light_source/example-10/output.gif" width="100%" />
+    </td>
+  </tr>
 
----
+   <!-- Translucent -->
+   <tr>
+    <td>
+      <div class="desc"><b>Translucent</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="desc"><b>Masked Input</b></div>
+      <img src="assets/Translucent/example-4/masked.gif" width="100%" />
+    </td>
+    <td>
+      <div class="desc"><b>Output</b></div>
+      <img src="assets/Translucent/example-4/output.gif" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="desc"><b>Masked Input</b></div>
+      <img src="assets/Translucent/example-5/masked.gif" width="100%" />
+    </td>
+    <td>
+      <div class="desc"><b>Output</b></div>
+      <img src="assets/Translucent/example-5/output.gif" width="100%" />
+    </td>
+  </tr>
 
-## Common
-
-| Masked Input | Output |
-| --- | --- |
-| ![](assets/Common/example-3/masked.gif) | ![](assets/Common/example-3/output.gif) |
-| ![](assets/Common/example-15/masked.gif) | ![](assets/Common/example-15/output.gif) |
-
----
-
-## Light Source
-
-| Masked Input | Output |
-| --- | --- |
-| ![](assets/Light_source/example-4/masked.gif) | ![](assets/Light_source/example-4/output.gif) |
-| ![](assets/Light_source/example-10/masked.gif) | ![](assets/Light_source/example-10/output.gif) |
-
----
-
-## Translucent
-
-| Masked Input | Output |
-| --- | --- |
-| ![](assets/Translucent/example-4/masked.gif) | ![](assets/Translucent/example-4/output.gif) |
-| ![](assets/Translucent/example-5/masked.gif) | ![](assets/Translucent/example-5/output.gif) |
-
----
-
-## Mirror
-
-| Masked Input | Output |
-| --- | --- |
-| ![](assets/Mirror/example-1/masked.gif) | ![](assets/Mirror/example-1/output.gif) |
-| ![](assets/Mirror/example-2/masked.gif) | ![](assets/Mirror/example-2/output.gif) |
-
+   <!-- Mirror -->
+  <tr>
+    <td>
+      <div class="desc"><b>Mirror</b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="desc"><b>Masked Input</b></div>
+      <img src="assets/Mirror/example-1/masked.gif" width="100%" />
+    </td>
+    <td>
+      <div class="desc"><b>Output</b></div>
+      <img src="assets/Mirror/example-1/output.gif" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="desc"><b>Masked Input</b></div>
+      <img src="assets/Mirror/example-2/masked.gif" width="100%" />
+    </td>
+    <td>
+      <div class="desc"><b>Output</b></div>
+      <img src="assets/Mirror/example-2/output.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 
 ## Overview
