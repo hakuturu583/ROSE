@@ -81,37 +81,21 @@
   <tr>
     <td>
       <div class="desc"><b>Masked Input</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Shadow/example-2/masked.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Shadow/example-2/masked.gif" width="100%" />
     </td>
     <td>
       <div class="desc"><b>Output</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Shadow/example-2/output.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Shadow/example-2/output.gif" width="100%" />
     </td>
   </tr>
   <tr>
     <td>
       <div class="desc"><b>Masked Input</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Shadow/example-7/masked.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Shadow/example-7/masked.gif" width="100%" />
     </td>
     <td>
       <div class="desc"><b>Output</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Shadow/example-7/output.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Shadow/example-7/output.gif" width="100%" />
     </td>
   </tr>
 
@@ -125,37 +109,21 @@
   <tr>
     <td>
       <div class="desc"><b>Masked Input</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Reflection/example-1/masked.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Reflection/example-1/masked.gif" width="100%" />
     </td>
     <td>
       <div class="desc"><b>Output</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Reflection/example-1/output.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Reflection/example-1/output.gif" width="100%" />
     </td>
   </tr>
   <tr>
     <td>
       <div class="desc"><b>Masked Input</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Reflection/example-2/masked.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Reflection/example-2/masked.gif" width="100%" />
     </td>
     <td>
       <div class="desc"><b>Output</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Reflection/example-2/output.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Reflection/example-2/output.gif" width="100%" />
     </td>
   </tr>
 
@@ -168,38 +136,21 @@
   <tr>
     <td>
       <div class="desc"><b>Masked Input</b></div>
-      <!-- <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Common/example-3/masked.mp4" type="video/mp4">
-        </video>
-      </div> -->
       <img src="assets/Common/example-3/masked.gif" width="100%" />
     </td>
     <td>
       <div class="desc"><b>Output</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Common/example-3/output.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Common/example-3/output.gif" width="100%" />
     </td>
   </tr>
   <tr>
     <td>
       <div class="desc"><b>Masked Input</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Common/example-15/masked.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Common/example-15/masked.gif" width="100%" />
     </td>
     <td>
       <div class="desc"><b>Output</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Common/example-15/output.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Common/example-15/output.gif" width="100%" />
     </td>
   </tr>
 
@@ -212,37 +163,21 @@
   <tr>
     <td>
       <div class="desc"><b>Masked Input</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Light_source/example-4/masked.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Light_source/example-4/masked.gif" width="100%" />
     </td>
     <td>
       <div class="desc"><b>Output</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Light_source/example-4/output.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Light_source/example-4/output.gif" width="100%" />
     </td>
   </tr>
   <tr>
     <td>
       <div class="desc"><b>Masked Input</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Light_source/example-10/masked.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Light_source/example-10/masked.gif" width="100%" />
     </td>
     <td>
       <div class="desc"><b>Output</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Light_source/example-10/output.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Light_source/example-10/output.gif" width="100%" />
     </td>
   </tr>
 
@@ -255,37 +190,21 @@
   <tr>
     <td>
       <div class="desc"><b>Masked Input</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Translucent/example-4/masked.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Translucent/example-4/masked.gif" width="100%" />
     </td>
     <td>
       <div class="desc"><b>Output</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Translucent/example-4/output.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Translucent/example-4/output.gif" width="100%" />
     </td>
   </tr>
   <tr>
     <td>
       <div class="desc"><b>Masked Input</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Translucent/example-5/masked.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Translucent/example-5/masked.gif" width="100%" />
     </td>
     <td>
       <div class="desc"><b>Output</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Translucent/example-5/output.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Translucent/example-5/output.gif" width="100%" />
     </td>
   </tr>
 
@@ -298,37 +217,21 @@
   <tr>
     <td>
       <div class="desc"><b>Masked Input</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Mirror/example-1/masked.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Mirror/example-1/masked.gif" width="100%" />
     </td>
     <td>
       <div class="desc"><b>Output</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Mirror/example-1/output.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Mirror/example-1/output.gif" width="100%" />
     </td>
   </tr>
   <tr>
     <td>
       <div class="desc"><b>Masked Input</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Mirror/example-2/masked.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Mirror/example-2/masked.gif" width="100%" />
     </td>
     <td>
       <div class="desc"><b>Output</b></div>
-      <div class="video">
-        <video muted autoplay="autoplay" loop="loop" width="100%">
-          <source src="https://metac-open.oss-cn-hangzhou.aliyuncs.com/kunbyte/open_source/rose/videos_reduced/Mirror/example-2/output.mp4" type="video/mp4">
-        </video>
-      </div>
+      <img src="assets/Mirror/example-2/output.gif" width="100%" />
     </td>
   </tr>
 </table>
