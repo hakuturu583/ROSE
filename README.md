@@ -83,7 +83,7 @@
   <tbody>
     <tr>
       <td><img src="assets/Shadow/example-2/masked.gif" width="100%"></td>
-      <td><img src="assets/Shadow/example-2/output.gif" width="100%"></td>
+      <td><img src="assets/Shadow/example-2/output.gif" width="100%"> ttttttttt</td>
     </tr>
     <tr>
       <td><img src="assets/Shadow/example-7/masked.gif" width="100%"></td>
