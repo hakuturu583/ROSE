@@ -2,7 +2,7 @@
 
 <div class="logo">
    <a href="https://shangchenzhou.com/projects/ProPainter/">
-      <img src="assets/rose_logo.png" style="width: 180px">
+      <!-- <img src="assets/rose_logo.png" style="width: 180px"> -->
    </a>
 </div>
 
