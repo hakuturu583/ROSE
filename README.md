@@ -366,26 +366,13 @@ Please `--save_results` for further [evaluating temporal warping error](https://
    If you find our repo useful for your research, please consider citing our paper:
 
    ```bibtex
-   @inproceedings{zhou2023propainter,
-      title={{ProPainter}: Improving Propagation and Transformer for Video Inpainting},
-      author={Zhou, Shangchen and Li, Chongyi and Chan, Kelvin C.K and Loy, Chen Change},
-      booktitle={Proceedings of IEEE International Conference on Computer Vision (ICCV)},
-      year={2023}
+   @inproceedings{
    }
    ```
-
-
-## License
-
-#### Non-Commercial Use Only Declaration
-The ProPainter is made available for use, reproduction, and distribution strictly for non-commercial purposes. The code and models are licensed under <a rel="license" href="./LICENSE">NTU S-Lab License 1.0</a>. Redistribution and use should follow this license.
-
-For inquiries or to obtain permission for commercial use, please consult Dr. Shangchen Zhou (shangchenzhou@gmail.com).
-
 
 ## Contact
 If you have any questions, please feel free to reach me out at weiyuchoumou526@gmail.com. 
 
 ## Acknowledgement
 
-This code is based on [Wan2.1-Fun-1.3B-Inpaint](https://github.com/aigc-apps/VideoX-Fun) and some code are brought from [ProPainter](https://github.com/sczhou/ProPainter). Thanks for their awesome works. 
+This code is based on [Wan2.1-Fun-1.3B-Inpaint](https://github.com/aigc-apps/VideoX-Fun) and some code are brought from [ProPainter](https://github.com/sczhou/ProPainter). Thanks for their awesome works！
