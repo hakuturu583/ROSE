@@ -44,8 +44,6 @@ from omegaconf import OmegaConf
 from transformers import AutoTokenizer
 from transformers.utils import ContextManagers
 
-from dataset.dataset_oss import OSSVideoDataset, OSSVideoDataset_base
-
 current_file_path = os.path.abspath(__file__)
 project_roots = [os.path.dirname(current_file_path), os.path.dirname(os.path.dirname(current_file_path)), os.path.dirname(os.path.dirname(os.path.dirname(current_file_path)))]
 for project_root in project_roots:
