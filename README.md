@@ -70,9 +70,7 @@
   
 ## Results
 
-#### 👨🏻‍🎨 Object Removal
-
-<h2>Shadow</h2>
+<h3>Shadow</h3>
 <table>
   <thead>
     <tr>
@@ -92,7 +90,7 @@
   </tbody>
 </table>
 
-<h2>Reflection</h2>
+<h3>Reflection</h3>
 <table>
   <thead>
     <tr>
@@ -112,7 +110,7 @@
   </tbody>
 </table>
 
-<h2>Common</h2>
+<h3>Common</h3>
 <table>
   <thead>
     <tr>
@@ -132,7 +130,7 @@
   </tbody>
 </table>
 
-<h2>Light Source</h2>
+<h3>Light Source</h3>
 <table>
   <thead>
     <tr>
@@ -152,7 +150,7 @@
   </tbody>
 </table>
 
-<h2>Translucent</h2>
+<h3>Translucent</h3>
 <table>
   <thead>
     <tr>
@@ -172,7 +170,7 @@
   </tbody>
 </table>
 
-<h2>Mirror</h2>
+<h3>Mirror</h3>
 <table>
   <thead>
     <tr>
@@ -225,9 +223,9 @@
 ## Get Started
 ### Prepare pretrained models
 
-We use pretrained [Wan2.1-Fun-1.3B-InP](https://huggingface.co/alibaba-pai/Wan2.1-Fun-1.3B-InP) as our base model. And during training, we only train the WanTransformer3D part and keep other parts frozen. You can download the weight of Transformer3D of ROSE from this [link](https://huggingface.co/Kunbyte/ROSE). 
+We use pretrained [`Wan2.1-Fun-1.3B-InP`](https://huggingface.co/alibaba-pai/Wan2.1-Fun-1.3B-InP) as our base model. And during training, we only train the WanTransformer3D part and keep other parts frozen. You can download the weight of Transformer3D of ROSE from this [`link`](https://huggingface.co/Kunbyte/ROSE). 
 
-And for gradio demo, we use the pretrained [SAM](https://github.com/facebookresearch/segment-anything) for generating masks. 
+And for gradio demo, we use the pretrained [`SAM`](https://github.com/facebookresearch/segment-anything) for generating masks. 
 
 
 The complete weight directory structure will be arranged as:
