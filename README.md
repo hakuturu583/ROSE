@@ -14,7 +14,7 @@
     <a href='https://li-chongyi.github.io/' target='_blank'>Yutong Feng<sup>2</sup></a>&emsp;
     <a href='https://ckkelvinchan.github.io/' target='_blank'>Jianshu Zeng<sup>3</sup></a>&emsp;
     <a href='https://www.mmlab-ntu.com/person/ccloy/' target='_blank'>Zixiang Gao<sup>3</sup></a>
-    <a href='https://ckkelvinchan.github.io/' target='_blank'>Hantang Liu<sup>2</sup></a>&emsp;
+    <a href='https://ckkelvinchan.github.io/' target='_blank'>Hantang Liu<sup>2</sup></a>&emsp;<br>
     <a href='https://ckkelvinchan.github.io/' target='_blank'>Yunfeng Yan<sup>1</sup></a>&emsp;
     <a href='https://ckkelvinchan.github.io/' target='_blank'>Donglian Qi<sup>1</sup></a>&emsp;
     <a href='https://xavierchen34.github.io/' target='_blank'>Xi Chen<sup>4</sup></a>&emsp;
