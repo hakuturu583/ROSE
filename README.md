@@ -238,6 +238,28 @@ weights
  ├── sam_vit_h_4b8939.pth
  ├── download_sam_ckpt.sh
 ```
+Also, it's necessary to prepare the base model in the models directory. You can download the Wan2.1-Fun-1.3B-InP base model from this [`link`](https://huggingface.co/alibaba-pai/Wan2.1-Fun-1.3B-InP).
+
+The [`models`](./models) will be arranged like this:
+```
+models
+ ├── Wan2.1-Fun-1.3B-InP
+   ├── google
+     ├── umt5-xxl
+       ├── spiece.model
+       ├── special_tokens_map.json
+           ...
+   ├── xlm-roberta-large
+     ├── sentencepiece.bpe.model
+     ├── tokenizer_config.json
+         ...
+ ├── config.json
+ ├── configuration.json
+ ├── diffusion_pytorch_model.safetensors
+ ├── models_clip_open-clip-xlm-roberta-large-vit-huge-14.pth
+ ├── models_t5_umt5-xxl-enc-bf16.pth
+ ├── Wan2.1_VAE.pth
+```
 
 ### 🏂 Quick test
 We provide some examples in the [`data/eval`](./inputs) folder. 
