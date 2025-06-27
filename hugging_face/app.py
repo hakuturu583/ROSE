@@ -35,10 +35,10 @@ def filter_kwargs(cls, kwargs):
     valid_params = set(sig.parameters.keys()) - {'self', 'cls'}
     return {k: v for k, v in kwargs.items() if k in valid_params}
 
-pretrained_model_path = "/home/miaochenxuan/Project/VideoX-Fun/models/Diffusion_Transformer/Wan2.1-Fun-1.3B-InP"
-transformer_path = "/home/miaochenxuan/Project/VideoX-Fun/weights/transformer"
+pretrained_model_path = "~/Project/VideoX-Fun/models/Diffusion_Transformer/Wan2.1-Fun-1.3B-InP"
+transformer_path = "~/Project/VideoX-Fun/weights/transformer"
 # config_path = "configs/wan2.1/wan_civitai.yaml"
-config_path = "/home/miaochenxuan/Project/VideoX-Fun/configs/wan2.1/wan_civitai.yaml"
+config_path = "~/Project/VideoX-Fun/configs/wan2.1/wan_civitai.yaml"
 config = OmegaConf.load(config_path)
 
 tokenizer = AutoTokenizer.from_pretrained(
