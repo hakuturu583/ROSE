@@ -42,6 +42,9 @@
 <!--         <a href="https://youtu.be/92EHfgCO5-Q" target='_blank'>
         <img src="https://img.shields.io/badge/Demo%20Video-%23FF0000.svg?logo=YouTube&logoColor=white">
         </a> -->
+        <a href='https://huggingface.co/Kunbyte/ROSE'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow'></a>
+        <a href='https://huggingface.co/spaces/Kunbyte/ROSE'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a>
+        <a href='https://huggingface.co/datasets/Kunbyte/ROSE-Dataset'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-orange'></a>
         <a href="https://huggingface.co/spaces/Kunbyte/ROSE" target='_blank'>
         <img src="https://img.shields.io/badge/Demo-%F0%9F%A4%97%20Hugging%20Face-blue">
         </a>
