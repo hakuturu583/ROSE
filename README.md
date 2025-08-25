@@ -1,24 +1,23 @@
 <div align="center">
 
 <div class="logo">
-   <a href="https://shangchenzhou.com/projects/ProPainter/">
-      <!-- <img src="assets/rose_logo.png" style="width: 180px"> -->
-   </a>
+<!--    <a href="https://shangchenzhou.com/projects/ProPainter/">
+      <!-- <img src="assets/rose_logo.png" style="width: 180px">  </a> -->
 </div>
 
 <h1>ROSE: Remove Objects with Side Effects in Videos</h1>
 
 
 <div>
-    <a href='https://shangchenzhou.com/' target='_blank'>Chenxuan Miao<sup>1</sup></a>&emsp;
-    <a href='https://li-chongyi.github.io/' target='_blank'>Yutong Feng<sup>2</sup></a>&emsp;
-    <a href='https://ckkelvinchan.github.io/' target='_blank'>Jianshu Zeng<sup>3</sup></a>&emsp;
-    <a href='https://www.mmlab-ntu.com/person/ccloy/' target='_blank'>Zixiang Gao<sup>3</sup></a>&emsp;
-    <a href='https://ckkelvinchan.github.io/' target='_blank'>Hantang Liu<sup>2</sup></a>&emsp;<br>
-    <a href='https://ckkelvinchan.github.io/' target='_blank'>Yunfeng Yan<sup>1</sup></a>&emsp;
-    <a href='https://ckkelvinchan.github.io/' target='_blank'>Donglian Qi<sup>1</sup></a>&emsp;
+    <a href='https://github.com/m1a0cX' target='_blank'>Chenxuan Miao<sup>1</sup></a>&emsp;
+    <a href='https://scholar.google.com/citations?user=mZwJLeUAAAAJ&hl=en' target='_blank'>Yutong Feng<sup>2</sup></a>&emsp;
+    <a href='https://lumen-relight.github.io' target='_blank'>Jianshu Zeng<sup>3</sup></a>&emsp;
+    <a href='https://github.com/FaintNightmare' target='_blank'>Zixiang Gao<sup>3</sup></a>&emsp;
+    <a href='' target='_blank'>Hantang Liu<sup>2</sup></a>&emsp;<br>
+    <a href='https://scholar.google.com/citations?user=-rkA6ewAAAAJ&hl=en' target='_blank'>Yunfeng Yan<sup>1</sup></a>&emsp;
+    <a href='https://scholar.google.com/citations?user=gVkvp1QAAAAJ&hl=en' target='_blank'>Donglian Qi<sup>1</sup></a>&emsp;
     <a href='https://xavierchen34.github.io/' target='_blank'>Xi Chen<sup>4</sup></a>&emsp;
-    <a href='https://ckkelvinchan.github.io/' target='_blank'>Bin Wang<sup>2</sup></a>&emsp;
+    <a href='https://scholar.google.com/citations?user=6hTbqDEAAAAJ&hl=en' target='_blank'>Bin Wang<sup>2</sup></a>&emsp;
     <a href='https://hszhao.github.io/' target='_blank'>Hengshuang Zhao<sup>4</sup></a>&emsp;
 </div>
 <div>
@@ -37,19 +36,19 @@
         <a href="https://rose2025-inpaint.github.io/" target='_blank'>
         <img src="https://img.shields.io/badge/🐳-Project%20Page-blue">
         </a>
-        <a href="https://arxiv.org/abs/2309.03897" target='_blank'>
+<!--         <a href="https://arxiv.org/abs/2309.03897" target='_blank'>
         <img src="https://img.shields.io/badge/arXiv-2309.03897-b31b1b.svg">
-        </a>
-        <a href="https://youtu.be/92EHfgCO5-Q" target='_blank'>
+        </a> -->
+<!--         <a href="https://youtu.be/92EHfgCO5-Q" target='_blank'>
         <img src="https://img.shields.io/badge/Demo%20Video-%23FF0000.svg?logo=YouTube&logoColor=white">
-        </a>
-        <a href="https://huggingface.co/spaces/sczhou/ProPainter" target='_blank'>
+        </a> -->
+        <a href="https://huggingface.co/spaces/Kunbyte/ROSE" target='_blank'>
         <img src="https://img.shields.io/badge/Demo-%F0%9F%A4%97%20Hugging%20Face-blue">
         </a>
-        <a href="https://openxlab.org.cn/apps/detail/ShangchenZhou/ProPainter" target='_blank'>
+<!--         <a href="https://openxlab.org.cn/apps/detail/ShangchenZhou/ProPainter" target='_blank'>
         <img src="https://img.shields.io/badge/Demo-%F0%9F%91%A8%E2%80%8D%F0%9F%8E%A8%20OpenXLab-blue">
-        </a>
-        <img src="https://api.infinitescript.com/badgen/count?name=sczhou/ProPainter">
+        </a> -->
+<!--         <img src="https://api.infinitescript.com/badgen/count?name=sczhou/ProPainter"> -->
     </h4>
 </div>
 
@@ -284,7 +283,7 @@ Options:
 
 #### 💃🏻 Interactive Demo
 
-We also provide an interactive demo for object removal, allowing users to select any object they wish to remove from a video. You can try the demo on [Hugging Face](https://huggingface.co/spaces/sczhou/ProPainter) or run it [locally](https://github.com/sczhou/ProPainter/tree/main/web-demos/hugging_face). 
+We also provide an interactive demo for object removal, allowing users to select any object they wish to remove from a video. You can try the demo on [Hugging Face](https://huggingface.co/spaces/Kunbyte/ROSE) or run it [locally](https://github.com/Kunbyte-AI/ROSE/tree/main/hugging_face). 
 
 <!-- <div align="center">
   <img src="./web-demos/hugging_face/assets/demo.gif" alt="Demo GIF" style="max-width: 512px; height: auto;">
