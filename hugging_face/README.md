@@ -43,10 +43,6 @@ If you find our repo useful for your research, please consider citing our paper:
 ```
 
 
-## License
-
-This project is licensed under <a rel="license" href="./LICENSE">NTU S-Lab License 1.0</a>. Redistribution and use should follow this license.
-
 
 ## Acknowledgements
 
