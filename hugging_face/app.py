@@ -416,9 +416,6 @@ checkpoint_fodler = os.path.join('..', 'weights')
 
 sam_checkpoint = load_file_from_url(sam_checkpoint_url_dict[args.sam_model_type], checkpoint_fodler)
 cutie_checkpoint = load_file_from_url(os.path.join(pretrain_model_url, 'cutie-base-mega.pth'), checkpoint_fodler)
-# propainter_checkpoint = load_file_from_url(os.path.join(pretrain_model_url, 'ProPainter.pth'), checkpoint_fodler)
-# raft_checkpoint = load_file_from_url(os.path.join(pretrain_model_url, 'raft-things.pth'), checkpoint_fodler)
-# flow_completion_checkpoint = load_file_from_url(os.path.join(pretrain_model_url, 'recurrent_flow_completion.pth'), checkpoint_fodler)
 
 # initialize sam, cutie, propainter models
 model = TrackingAnything(sam_checkpoint, cutie_checkpoint, args)
@@ -428,7 +425,7 @@ title = r"""<h1 align="center">ROSE: Remove Objects with Side Effects in Videos<
 
 description = r"""
 <center></center>
-<b>Official Gradio demo</b> for <a href='https://github.com/sczhou/ProPainter' target='_blank'><b>Remove Objects with Side Effects in Videos</b></a>.<br>
+<b>Official Gradio demo</b> for <a href='https://github.com/Kunbyte-AI/ROSE' target='_blank'><b>Remove Objects with Side Effects in Videos</b></a>.<br>
 🔥 ROSE is a robust inpainting algorithm.<br>
 🤗 Try to drop your video, add the masks and get the the inpainting results!<br>
 """
