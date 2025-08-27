@@ -228,19 +228,15 @@
 
 We use pretrained [`Wan2.1-Fun-1.3B-InP`](https://huggingface.co/alibaba-pai/Wan2.1-Fun-1.3B-InP) as our base model. And during training, we only train the WanTransformer3D part and keep other parts frozen. You can download the weight of Transformer3D of ROSE from this [`link`](https://huggingface.co/Kunbyte/ROSE). 
 
-And for gradio demo, we use the pretrained [`SAM`](https://github.com/facebookresearch/segment-anything) for generating masks. 
-
-
-The complete weight directory structure will be arranged as:
+For local inference, the [`weights`] directory should be arranged like this:
 ```
 weights
  ├── transformer
    ├── config.json
    ├── diffusion_pytorch_model.safetensors
- ├── cutie-base-mega.pth
- ├── sam_vit_h_4b8939.pth
- ├── download_sam_ckpt.sh
 ```
+
+
 Also, it's necessary to prepare the base model in the models directory. You can download the Wan2.1-Fun-1.3B-InP base model from this [`link`](https://huggingface.co/alibaba-pai/Wan2.1-Fun-1.3B-InP).
 
 The [`models`](./models) will be arranged like this:
@@ -264,8 +260,23 @@ models
  ├── Wan2.1_VAE.pth
 ```
 
+And for gradio demo, we use the pretrained [`SAM`](https://github.com/facebookresearch/segment-anything) for generating masks.
+
+For more information about using gradio demo, please check out the README under [`hugging_face `](./hugging_face) folder.
+
+The complete weight directory structure for gradio demo will be arranged as:
+```
+weights
+ ├── transformer
+   ├── config.json
+   ├── diffusion_pytorch_model.safetensors
+ ├── cutie-base-mega.pth
+ ├── sam_vit_h_4b8939.pth
+ ├── download_sam_ckpt.sh
+```
+
 ### 🏂 Quick test
-We provide some examples in the [`data/eval`](./inputs) folder. 
+We provide some examples in the [`data/eval`](./data/eval) folder. 
 Run the following commands to try it out:
 ```shell
 python inference.py 
