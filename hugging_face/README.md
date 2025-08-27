@@ -38,7 +38,11 @@ python app.py
 ## Citation
 If you find our repo useful for your research, please consider citing our paper:
 ```bibtex
-@inproceedings{
+@article{miao2025rose,
+      title={ROSE: Remove Objects with Side Effects in Videos}, 
+      author={Miao, Chenxuan and Feng, Yutong and Zeng, Jianshu and Gao, Zixiang and Liu, Hantang and Yan, Yunfeng and Qi, Donglian and Chen, Xi and Wang, Bin and Zhao, Hengshuang},
+      journal={arXiv preprint arXiv:2508.18633},
+      year={2025}
 }
 ```
 
