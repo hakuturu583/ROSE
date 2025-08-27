@@ -3,7 +3,6 @@ import gc
 import logging
 import math
 import os
-import oss2
 import pickle
 import random
 import shutil
