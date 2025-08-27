@@ -81,7 +81,7 @@ def parse_args():
                         help="Path(s) to validation masks.")
     parser.add_argument("--validation_prompts", type=str, nargs='+', default=[""],
                         help="Validation prompts.")
-    parser.add_argument("--output_dir", type=str, default="results/exp4_v2",
+    parser.add_argument("--output_dir", type=str, default="results/",
                         help="Output directory.")
     parser.add_argument("--video_length", type=int, default=49,
                         help="Number of frames in video.") # The length of videos needs to be 16n+1.
