@@ -228,7 +228,7 @@
 
 We use pretrained [`Wan2.1-Fun-1.3B-InP`](https://huggingface.co/alibaba-pai/Wan2.1-Fun-1.3B-InP) as our base model. And during training, we only train the WanTransformer3D part and keep other parts frozen. You can download the weight of Transformer3D of ROSE from this [`link`](https://huggingface.co/Kunbyte/ROSE). 
 
-For local inference, the [`weights`] directory should be arranged like this:
+For local inference, the [`weights`](./weights) directory should be arranged like this:
 ```
 weights
  ├── transformer
