@@ -91,7 +91,7 @@ def parse_args():
 
 def main():
     args = parse_args()
-    pretrained_model_name_or_path = "models/Diffusion_Transformer/Wan2.1-Fun-1.3B-InP"
+    pretrained_model_name_or_path = "models/Wan2.1-Fun-1.3B-InP"
     pretrained_transformer_path = "weights/transformer"
     config_path = "configs/wan2.1/wan_civitai.yaml"
     config = OmegaConf.load(config_path)
