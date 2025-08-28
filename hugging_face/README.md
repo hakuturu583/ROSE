@@ -13,6 +13,7 @@ pip3 install -r requirements.txt
 # Run the demo
 python app.py
 ```
+*Note: if you have problems downloading "git+https", you can set up SSH in Github and then replace them with "git+ssh://git@github.com/..."*
 
 ## Usage Guidance
 * Step 1: Upload your video and click the `Get video info` button.
