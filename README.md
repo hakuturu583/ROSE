@@ -28,7 +28,7 @@
 </div>
 
 <div>
-    <strong>Under Review</strong>
+    <strong>NeurIPS 2025</strong>
 </div>
 
 <div>
