@@ -45,10 +45,10 @@ rose-infer = "inference:main"
 
 [tool.uv]
 # Feel free to pin a Python version or add indexes here if needed.
+environments = ["platform_system == 'Linux'"]
+index-strategy = "unsafe-best-match"
 extra-index-url = [
-  "https://download.pytorch.org/whl/cu121",
   "https://download.pytorch.org/whl/cu124",
-  "https://download.pytorch.org/whl/rocm6.0",
 ]
 
 # Dependency groups for different accelerator builds of PyTorch.
@@ -58,50 +58,13 @@ cpu = [
   "torch==2.6.0",
   "torchvision==0.21.0",
 ]
-cu121 = [
-  "torch==2.6.0+cu121; platform_system == 'Linux'",
-  "torchvision==0.21.0+cu121; platform_system == 'Linux'",
-]
 cu124 = [
   "torch==2.6.0+cu124; platform_system == 'Linux'",
   "torchvision==0.21.0+cu124; platform_system == 'Linux'",
-]
-cu126 = [
-  "torch==2.6.0+cu126; platform_system == 'Linux'",
-  "torchvision==0.21.0+cu126; platform_system == 'Linux'",
-]
-cu128 = [
-  "torch==2.6.0+cu128; platform_system == 'Linux'",
-  "torchvision==0.21.0+cu128; platform_system == 'Linux'",
-]
-rocm = [
-  "torch==2.6.0+rocm6.0; platform_system == 'Linux'",
-  "torchvision==0.21.0+rocm6.0; platform_system == 'Linux'",
 ]
 
 # Use PyTorch's CUDA 12.4 index for CUDA wheels in the `cu124` group.
 [[tool.uv.index]]
 name = "pytorch-cu124"
 url = "https://download.pytorch.org/whl/cu124"
-explicit = true
-
-[[tool.uv.index]]
-name = "pytorch-cu121"
-url = "https://download.pytorch.org/whl/cu121"
-explicit = true
-
-[[tool.uv.index]]
-name = "pytorch-cu126"
-url = "https://download.pytorch.org/whl/cu126"
-explicit = true
-
-[[tool.uv.index]]
-name = "pytorch-cu128"
-url = "https://download.pytorch.org/whl/cu128"
-explicit = true
-
-# Adjust the ROCm stream to match your system/toolkit.
-[[tool.uv.index]]
-name = "pytorch-rocm60"
-url = "https://download.pytorch.org/whl/rocm6.0"
 explicit = true
